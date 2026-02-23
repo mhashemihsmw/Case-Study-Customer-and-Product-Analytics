@@ -1,0 +1,13 @@
+*.zip   
+.venv
+__pycache__/
+*.pyc
+# Ignore the .env file that contains environment variables
+.env
+# Ignore the .vscode directory that contains Visual Studio Code settings
+.vscode/
+# Ignore the .idea directory that contains JetBrains IDE settings
+.idea/
+*.csv   
+*copy*
+*.xlsx  
